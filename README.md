@@ -66,7 +66,8 @@ plt.subplot(224); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ## Output:
 ### Input Grayscale Image and Color Image
 
-![Screenshot 2025-04-30 193616](https://github.com/user-attachments/assets/4c131f7e-8364-44fe-a1fb-dbb35e137d13)
+![Screenshot 2025-04-30 203421](https://github.com/user-attachments/assets/fea11ee2-90c4-4468-b3fe-679fd68c7b25)
+
 
 ![Screenshot 2025-04-30 193634](https://github.com/user-attachments/assets/0045e5ce-a273-4aff-96db-8a95eebfed55)
 
